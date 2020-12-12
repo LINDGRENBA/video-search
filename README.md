@@ -1,7 +1,9 @@
 ## Video Search Application
 
+![Application Demo Gif](./public/demo.gif)
+
 ### Description :
-This project is a video search application. The user can enter a topic into the search bar and videos related to that topic will be returned.  
+This project is a video search application which utilizes the YouTube v3 API. The user can enter a topic into the search bar and videos related to that topic will be returned.  
 <br/>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
