@@ -17,8 +17,8 @@ If you would like this project on your local machine
 
 ### Tools & Technology :
 * React
-* Axios
-* YouTube API
+* Axios library `install`
+* YouTube API 
 * Git & Github
 * VS Code
 <!-- * [Semantic-ui](https://semantic-ui.com/views/card.html)   -->
